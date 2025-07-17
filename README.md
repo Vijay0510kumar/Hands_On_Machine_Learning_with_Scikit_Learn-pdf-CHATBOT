@@ -3,7 +3,7 @@
 ### 📄 PDF Chatbot (LangChain + Groq + FAISS)
 A simple AI-powered PDF Question-Answering App built with:
 
-LangChain
+LangChain 
 
 Groq (LLM)
 
